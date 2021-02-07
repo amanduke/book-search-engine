@@ -4,6 +4,10 @@ The Book search engine is an application is leveraging the entire MERN stack and
 
 This project was bootstrapped with Create React App.
 
+# Deployed using Heroku
+https://afternoon-sierra-55118.herokuapp.com/
+
+
 # Screenshot
 ![Screenshot](https://user-images.githubusercontent.com/65379991/107134967-c735c280-68c4-11eb-80c0-f277d160a4d2.png "Screenshot")
 
